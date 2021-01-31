@@ -1,0 +1,109 @@
+body {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.top-container {
+  position: relative;
+  padding: 40px 20px;
+  background-color: #d2fafb;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 10%;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: "Dancing Script", cursive;
+  font-size: 5.625rem;
+  position: relative;
+  color: #66bfbf;
+}
+
+h2 {
+  font-family: "Roboto", sans-serif;
+  color: #66bfbf;
+  font-weight: normal;
+}
+
+.h2-intro {
+  position: relative;
+  font-size: 2.5rem;
+}
+
+.mountain {
+  height: 100%;
+  width: auto;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 10%;
+}
+.greeting {
+  font-size: large;
+  font-family: "Courier New", Courier, monospace;
+}
+.skill-row {
+  width: 50%;
+  text-align: left;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+.profile {
+  display: inline;
+  border-radius: 50%;
+  width: 20%;
+}
+
+h3 {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  color: #11999e;
+}
+
+p {
+  margin-bottom: 30px;
+  padding-bottom: 10px;
+  font-family: "Roboto", sans-serif;
+}
+
+.languages,
+.pharmacia,
+.project-manager,
+.computer,
+.hobbies {
+  width: 15%;
+  float: left;
+  margin: 30px;
+}
+
+.bottom-container {
+  margin: 0;
+  padding-top: 20px;
+  background-color: white;
+}
+
+.contact-me {
+  padding-top: 10px;
+  padding-bottom: 40px;
+  background-color: #41aaa8;
+}
+
+.p-bottom {
+  margin-bottom: 0;
+  padding-bottom: 20px;
+}
+
+.footer-link {
+  color: #11999e;
+}
+.icons {
+  font-size: 0.75rem;
+}
+span {
+  color: white;
+}
