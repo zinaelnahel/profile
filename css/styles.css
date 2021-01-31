@@ -64,18 +64,25 @@ h3 {
 
 p {
   margin-bottom: 30px;
-  padding-bottom: 10px;
+  padding-bottom: 15px;
   font-family: "Roboto", sans-serif;
+  display: block;
 }
 .background,
-.languages,
-.project-manager,
 .computer,
-.hobbies,
 .pharmacia {
   width: 15%;
   float: left;
   margin: 30px;
+  padding-right: 2px;
+}
+.languages,
+.project-manager,
+.hobbies {
+  width: 15%;
+  float: right;
+  margin: 20px;
+  padding-left: 2px;
 }
 
 .bottom-container {
