@@ -42,10 +42,7 @@ h2 {
   position: absolute;
   left: 10%;
 }
-.greeting {
-  font-size: large;
-  font-family: "Courier New", Courier, monospace;
-}
+
 .skill-row {
   width: 50%;
   text-align: left;
@@ -70,12 +67,12 @@ p {
   padding-bottom: 10px;
   font-family: "Roboto", sans-serif;
 }
-
+.background,
 .languages,
-.pharmacia,
 .project-manager,
 .computer,
-.hobbies {
+.hobbies,
+.pharmacia {
   width: 15%;
   float: left;
   margin: 30px;
