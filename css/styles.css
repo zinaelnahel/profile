@@ -12,6 +12,7 @@ body {
 .laptop {
   position: absolute;
   right: 0.5%;
+  width: 25%;
 }
 
 h1 {
