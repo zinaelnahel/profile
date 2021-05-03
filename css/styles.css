@@ -1,37 +1,38 @@
 body {
   margin: 0 auto;
   text-align: center;
+  background-color: #d8e3e7;
 }
 
 .top-container {
   position: relative;
-  padding: 40px 20px;
-  background-color: #d2fafb;
+  padding: 0px;
+  background-color: #51c4d3;
 }
 
 .laptop {
   position: absolute;
   right: 0.5%;
-  width: 25%;
+  width: 20%;
 }
 
 h1 {
   margin: 50px auto 0 auto;
   font-family: "Dancing Script", cursive;
-  font-size: 5.625rem;
+  font-size: 3.625rem;
   position: relative;
-  color: #66bfbf;
+  color: #126e82;
 }
 
 h2 {
   font-family: "Roboto", sans-serif;
-  color: #66bfbf;
+  color: #126e82;
   font-weight: normal;
 }
 
 .h2-intro {
   position: relative;
-  font-size: 2.5rem;
+  font-size: 1.5rem;
 }
 
 .mountain {
@@ -47,7 +48,7 @@ h2 {
 .skill-row {
   width: 50%;
   text-align: left;
-  margin: 100px auto 100px auto;
+  margin: 50px auto 50px auto;
   line-height: 2;
 }
 .profile {
@@ -60,7 +61,7 @@ h3 {
   margin: 0;
   font-family: "Roboto", sans-serif;
   font-size: 18px;
-  color: #11999e;
+  color: #126e82;
 }
 
 p {
@@ -71,7 +72,8 @@ p {
 }
 .background,
 .computer,
-.pharmacia {
+.pharmacia,
+.hobbies {
   width: 15%;
   float: left;
   margin: 20px;
@@ -79,7 +81,7 @@ p {
 }
 .languages,
 .project-manager,
-.hobbies {
+.projects {
   width: 15%;
   float: right;
   margin: 20px;
@@ -89,13 +91,13 @@ p {
 .bottom-container {
   margin: 0;
   padding-top: 20px;
-  background-color: white;
+  background-color: #d8e3e7;
 }
 
 .contact-me {
   padding-top: 10px;
   padding-bottom: 40px;
-  background-color: #41aaa8;
+  background-color: #51c4d3;
 }
 
 .p-bottom {
@@ -104,11 +106,15 @@ p {
 }
 
 .footer-link {
-  color: #11999e;
+  color: #126e82;
 }
 .icons {
   font-size: 0.75rem;
+  color: #126e82;
+}
+.btn {
+  color: #126e82;
 }
 span {
-  color: white;
+  color: black;
 }
